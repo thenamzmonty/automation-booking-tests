@@ -1,0 +1,23 @@
+# dependencies
+node_modules/
+
+# playwright outputs
+test-results/
+playwright-report/
+blob-report/
+trace.zip
+
+# environment
+.env
+.local/
+
+# replit-specific
+.replit
+generated-icon.png
+
+# system files
+.DS_Store
+Thumbs.db
+
+# misc
+index.js
